@@ -1,0 +1,1827 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ran",
+				"rangeY\tparam"
+			],
+			[
+				"ra",
+				"rangeX\tparam"
+			],
+			[
+				"f",
+				"filters\tmodule"
+			],
+			[
+				"r",
+				"rangeY"
+			],
+			[
+				"s",
+				"setSuccessful\tfunction"
+			],
+			[
+				"c",
+				"cuadratic_transform\tfunction"
+			],
+			[
+				"__s",
+				"__str__\tfunction"
+			],
+			[
+				"i",
+				"imagen\tmodule"
+			],
+			[
+				"t",
+				"transforms\tmodule"
+			],
+			[
+				"IMA",
+				"image\tparam"
+			],
+			[
+				"__",
+				"__name__\tinstance"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"resut",
+				"resultados"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"con",
+				"constant\tAngularJS"
+			],
+			[
+				"BI",
+				"\\bigcup"
+			],
+			[
+				"le",
+				"\\leq"
+			],
+			[
+				"subset",
+				"\\subseteq"
+			],
+			[
+				"subse",
+				"\\nsubseteq"
+			],
+			[
+				"re",
+				"\\ref"
+			],
+			[
+				"la",
+				"\\label"
+			],
+			[
+				"emp",
+				"\\emptyset"
+			],
+			[
+				"ri",
+				"\\rightarrow"
+			],
+			[
+				"it",
+				"\\textit{}"
+			],
+			[
+				"bf",
+				"\\textbf{}"
+			],
+			[
+				"te",
+				"\\textit{}"
+			],
+			[
+				"sub",
+				"\\subsection{}"
+			],
+			[
+				"em",
+				"\\emptyset"
+			],
+			[
+				"en",
+				"\\end"
+			],
+			[
+				"e",
+				"\\end"
+			],
+			[
+				"nit",
+				"\\notin"
+			],
+			[
+				"bi",
+				"\\bibliographystyle"
+			],
+			[
+				"bib",
+				"\\bibliography"
+			],
+			[
+				"da",
+				"\\date"
+			],
+			[
+				"ti",
+				"\\title{}"
+			],
+			[
+				"ci",
+				"\\cite"
+			],
+			[
+				"sec",
+				"\\section{}"
+			],
+			[
+				"use",
+				"\\usepackage"
+			],
+			[
+				"open",
+				"open_automatically"
+			],
+			[
+				"ex",
+				"extensions"
+			],
+			[
+				"tr",
+				"translationPendientes"
+			],
+			[
+				"tra",
+				"traduccionesConstant"
+			],
+			[
+				"fi",
+				"finalizada"
+			],
+			[
+				"val",
+				"valoracion"
+			],
+			[
+				"object",
+				"object"
+			],
+			[
+				"S",
+				"Suscripción"
+			],
+			[
+				"in",
+				"infoSemaforo"
+			],
+			[
+				"u",
+				"utf-8"
+			],
+			[
+				"A",
+				"ARCHIVOPASS1"
+			],
+			[
+				"pl",
+				"plugin"
+			],
+			[
+				"conta",
+				"contact_client"
+			],
+			[
+				"cont",
+				"contacts"
+			],
+			[
+				"json",
+				"jsonify"
+			],
+			[
+				"model",
+				"model_to_dict"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"BLO",
+				"block_t"
+			],
+			[
+				"TE",
+				"TEXT"
+			],
+			[
+				"de",
+				"desp"
+			],
+			[
+				"di",
+				"dict_frec_bloques"
+			],
+			[
+				"M",
+				"MAXLETTER"
+			],
+			[
+				"len",
+				"len_key_t"
+			],
+			[
+				"T",
+				"TEXTLEN"
+			],
+			[
+				"ma",
+				"MAX_WORD"
+			],
+			[
+				"bloque",
+				"bloques"
+			],
+			[
+				"ch",
+				"char_key_1"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"ca",
+				"char_key"
+			],
+			[
+				"p",
+				"pprint"
+			],
+			[
+				"po",
+				"posible_keys"
+			],
+			[
+				"max",
+				"max_values"
+			],
+			[
+				"block_",
+				"block_square_frec"
+			],
+			[
+				"KE",
+				"KEY_SAMPLE"
+			],
+			[
+				"pp",
+				"pprint"
+			],
+			[
+				"ps",
+				"posible_keys"
+			],
+			[
+				"bl",
+				"block_square_frec"
+			],
+			[
+				"v",
+				"VIGENERE"
+			],
+			[
+				"can",
+				"cancion2"
+			],
+			[
+				"byt",
+				"byte2"
+			],
+			[
+				"C",
+				"CANCION_CIFRADA"
+			],
+			[
+				"a",
+				"archivo1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"func",
+				"func_name"
+			],
+			[
+				"wa",
+				"wraps"
+			],
+			[
+				"pr",
+				"project_id"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"gn",
+				"gnp-soy-cliente-pro"
+			],
+			[
+				"com",
+				"componente"
+			],
+			[
+				"gnp",
+				"gnp-soy-cliente-pro"
+			],
+			[
+				"pro",
+				"proyecto_gcp"
+			],
+			[
+				"se",
+				"severity"
+			],
+			[
+				"rec",
+				"receiveTimestamp"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"pa",
+				"payload"
+			],
+			[
+				"P",
+				"PAYLOAD"
+			],
+			[
+				"requ",
+				"requestPayload"
+			],
+			[
+				"b",
+				"brightValue"
+			],
+			[
+				"br",
+				"brightConstant"
+			],
+			[
+				"bri",
+				"brightValue"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"o",
+				"output"
+			],
+			[
+				"fil",
+				"filters"
+			],
+			[
+				"AVER",
+				"average"
+			],
+			[
+				"B",
+				"BRIGHTNESS"
+			],
+			[
+				"filet",
+				"filter"
+			],
+			[
+				"par",
+				"parser"
+			],
+			[
+				"pars",
+				"parse_args"
+			],
+			[
+				"av",
+				"pixel_avg"
+			],
+			[
+				"pix",
+				"pixel"
+			],
+			[
+				"px",
+				"pixel_avg"
+			],
+			[
+				"PIXEL",
+				"pixel_avg"
+			],
+			[
+				"im",
+				"image_map"
+			],
+			[
+				"LI",
+				"LIMIT_X"
+			],
+			[
+				"pixel",
+				"pixel_avg"
+			],
+			[
+				"pixe",
+				"pixel_square"
+			],
+			[
+				"end",
+				"end_y"
+			],
+			[
+				"L",
+				"LIMIT_Y"
+			],
+			[
+				"H",
+				"HighContrast"
+			],
+			[
+				"BRI",
+				"Brightness"
+			],
+			[
+				"G",
+				"Greyscale"
+			],
+			[
+				"IM",
+				"image"
+			],
+			[
+				"Ima",
+				"Image"
+			],
+			[
+				"ver",
+				"verbosity"
+			],
+			[
+				"ve",
+				"verbose"
+			],
+			[
+				"n",
+				"n-2"
+			],
+			[
+				"n-",
+				"n-3"
+			],
+			[
+				"lo",
+				"logging_global"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 670,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/transforms/convolution.py",
+			"settings":
+			{
+				"buffer_size": 190,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/transforms/linear.py",
+			"settings":
+			{
+				"buffer_size": 291,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/filters/filter.py",
+			"settings":
+			{
+				"buffer_size": 298,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/transforms/cuadratic.py",
+			"settings":
+			{
+				"buffer_size": 306,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/filters/mosaic.py",
+			"settings":
+			{
+				"buffer_size": 1382,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/filters/greyscale.py",
+			"settings":
+			{
+				"buffer_size": 1029,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/filters/rgb_component.py",
+			"settings":
+			{
+				"buffer_size": 934,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"orgmo",
+				"Set Syntax: orgmode"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabel",
+				"Package Control: Enable Package"
+			],
+			[
+				"latex ",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"latextto",
+				"LaTeXTools: Clear current bibliography cache"
+			],
+			[
+				"clean",
+				"LaTeXTools: Clear current bibliography cache"
+			],
+			[
+				"clear",
+				"LaTeXTools: Clear cache"
+			],
+			[
+				"latex clea",
+				"LaTeXTools: Clear current bibliography cache"
+			],
+			[
+				"bib",
+				"CiteBibTeX: Extract citations in current file"
+			],
+			[
+				"tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"latex",
+				"LaTeXTools: Build cache of LaTeX packages"
+			],
+			[
+				"late",
+				"Build With: LaTeX"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"la",
+				"Build With: LaTeX"
+			],
+			[
+				"latex pdf",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"set j",
+				"Set Syntax: Julia"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"makr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"jaa",
+				"Set Syntax: Java"
+			],
+			[
+				"edit",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"m",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				":0",
+				":0 - BOF"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				":pi",
+				"Package Control: Install Package"
+			],
+			[
+				"box",
+				"Boxy Theme: Preferences"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes",
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes/include",
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes/include/elements",
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes/include/filters",
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes/include/transforms",
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes/var"
+	],
+	"file_history":
+	[
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes/include/filters/rgb_component.py",
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes/include/filters/greyscale.py",
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes/include/transforms/cuadratic.py",
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes/include/filters/filter.py",
+		"/C/Users/taboa/Documents/Ciencias/proceso-digital-imagenes/requirements.txt",
+		"/C/Users/taboa/OneDrive/criptografia/find_generator.py",
+		"/C/Users/taboa/OneDrive/criptografia/some.make",
+		"/C/Users/taboa/OneDrive/criptografia/criptografia.mdk",
+		"/C/Users/taboa/OneDrive/criptografia/out/criptografia.pdf",
+		"/C/Users/taboa/OneDrive/criptografia/out/criptografia.tex",
+		"/C/Users/taboa/Documents/Ciencias/procesos-digital-de-imagenes/matrix_convolucion.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos-digital-de-imagenes/todo.org",
+		"/C/Users/taboa/Documents/Amarello/pdfLoco/app.js",
+		"/C/Users/taboa/Documents/Amarello/pdfLoco/public/index.html",
+		"/C/Users/taboa/Documents/Amarello/pdfLoco/bower.json",
+		"/C/Users/taboa/Documents/Amarello/pdfLoco/index.html",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/scripts/controllers/menu.js",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/views/modal-alta.html",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/scripts/controllers/generador.js",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/scripts/controllers/alta.js",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/views/modal-intermediarios.html",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/scripts/services/utilfunctions.js",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/scripts/app.js",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/views/generador.html",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/scripts/controllers/ordengenerada.js",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/index.html",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/views/modal-orden-generada.html",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/views/modal-personas.html",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/scripts/filters/startfrom.js",
+		"/C/Users/taboa/Documents/Ciencias/Criptografia/Examen03/examen03.tex",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/S0012365X03004473.bib",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/Plantilla Evaluación Parcial 03 TGII.tex",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/some.bib",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/algun.tex",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/citas.bib",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/parcial03.tex",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/la.bib",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/.gitignore",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/graficas2.sublime-project",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/graphs-digraphs-gary-chartrand.pdf",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/citas.bibtex",
+		"/D/Users/taboa/Videos/Game.Night.2018.1080p.BluRay.H264.AAC-RARBG/Subs/Game.Night.2018.1080p.BluRay.H264.AAC-RARBG.idx",
+		"/D/Users/taboa/Videos/Game.Night.2018.1080p.BluRay.H264.AAC-RARBG/Subs/Game.Night.2018.1080p.BluRay.H264.AAC-RARBG.sub",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/Plantilla Evaluación Parcial 03 TGII.pdf",
+		"/C/Users/taboa/AppData/Roaming/Sublime Text 3/Packages/LatexEquationPreview/latex_equation_preview.sublime-settings",
+		"/C/Users/taboa/AppData/Local/Sublime Text 3/Cache/LaTeXTools/internal/preview_math/a4081b471713089b58aa554d566c8ba4.png.err",
+		"/C/Users/taboa/AppData/Local/Sublime Text 3/Cache/LaTeXTools/internal/preview_math/fcaf408b10d8dbf3164e8cdcbc690ab6.png.err",
+		"/C/Users/taboa/AppData/Roaming/Sublime Text 3/Installed Packages/LaTeX Equation Preview.sublime-package",
+		"/C/Users/taboa/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/out/prop1.3.pdf",
+		"/C/Users/taboa/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/app/views/menu.html",
+		"/C/Users/taboa/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/C/Users/taboa/Documents/Ciencias/Graficas2/Plantilla Evaluación Parcial 03 TGII.aux",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/Gruntfile.js",
+		"/C/Users/taboa/Documents/Amarello/gnp-direccion-agencias/test/spec/services/main.js",
+		"/C/Users/taboa/import",
+		"/C/Users/taboa/numpy",
+		"/C/Users/taboa/as",
+		"/C/Users/taboa/np",
+		"/C/Users/taboa/Downloads/pygubu-0.9.8.2.tar.gz",
+		"/C/Users/taboa/Documents/Random/java/springquickstart/src/main/java/hello/Application.java",
+		"/C/Users/taboa/Documents/Random/java/springquickstart/build.gradle",
+		"/C/Users/taboa/Documents/Random/java/springquickstart/src/main/java/hello/GrettingController.java",
+		"/C/Users/taboa/Documents/Random/java/springquickstart/src/main/java/hello/Greeting.java",
+		"/C/Users/taboa/Documents/Random/java/springquickstart/build/tmp/bootJar/MANIFEST.MF",
+		"/C/Users/taboa/Documents/Ciencias/procesos.tar.gz",
+		"/C/xampp/tomcat/webapps/sample/hello.jsp",
+		"/C/xampp/tomcat/conf/tomcat-users.xml",
+		"/C/xampp/tomcat/webapps/sample/json.jsp",
+		"/C/xampp/tomcat/webapps/sample/WEB-INF/web.xml",
+		"/C/Users/taboa/Documents/Ciencias/Numerico/cholesky.pt",
+		"/C/Users/taboa/Documents/Random/java/hoc/builder/Main.java",
+		"/C/Users/taboa/Documents/Random/footaboada/package.json",
+		"/C/Users/taboa/Documents/Random/footaboada/app/index.html",
+		"/C/Users/taboa/AppData/Local/Microsoft/Windows/INetCache/IE/5UW33YVQ/requestjson[1].json",
+		"/C/Users/taboa/Documents/Ciencias/Concurrente/concurrentep2/practica02/README.md",
+		"/C/Users/taboa/Documents/Ciencias/Concurrente/concurrentep2/practica02/build.xml",
+		"/C/Users/taboa/Documents/Ciencias/Concurrente/concurrentep2/README.md",
+		"/C/Users/taboa/Documents/Ciencias/Concurrente/concurrentep2/practica02/src/Dekker.java",
+		"/C/Users/taboa/Documents/Ciencias/Concurrente/concurrentep2/practica02/src/Kessels.java",
+		"/C/Users/taboa/Documents/Ciencias/Concurrente/concurrentep2/practica02/src/Main.java",
+		"/C/Users/taboa/Documents/Ciencias/Concurrente/concurrentep2/practica02/src/Peterson.java",
+		"/C/Users/taboa/Documents/Ciencias/Concurrente/concurrentep2/practica02/src/Task.java",
+		"/C/Users/taboa/Documents/Ciencias/Concurrente/concurrentep2/practica02/src/ThreadControl.java",
+		"/C/Users/taboa/Documents/Ciencias/Concurrente/concurrentep2/.editorconfig",
+		"/C/Users/taboa/Documents/Ciencias/Criptografia/Cripto/foo.txt",
+		"/C/Users/taboa/Documents/Ciencias/Criptografia/Cripto/vigenere.refactor.py",
+		"/C/Users/taboa/Documents/Ciencias/Criptografia/Cripto/example.txt",
+		"/C/Users/taboa/Documents/Ciencias/Criptografia/Cripto/vigenere.py",
+		"/C/Users/taboa/Documents/Ciencias/Criptografia/Cripto/example2.txt",
+		"/C/Users/taboa/Documents/Ciencias/Criptografia/Cripto/vigenere_cifer.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/filters/component_rgb.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/applyfilter.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/quick_checkout.bat",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/README.md",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/filters/filter_.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/filters/greyscale.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/quick_checkout.sh",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/filters/highcontrast.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/filters/inverse.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/filters/bright.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/filters/mosaic.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/.gitignore",
+		"/C/Users/taboa/Documents/Ciencias/procesos-digital-de-imagenes/README.md",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/filters/__init__.py",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/foo.INVERSE.png",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/foo.png",
+		"/C/Users/taboa/Documents/Ciencias/procesos_/main.py",
+		"/C/Users/taboa/Documents/Ciencias/Procesos/main.py",
+		"/c/Users/taboa/Documents/Amarello/directorios-backend/appengine_config.py",
+		"/c/Users/taboa/Documents/Amarello/directorios-backend/app.yaml",
+		"/C/Users/taboa/.ssh/id_rsa.ppk.pub",
+		"/C/Users/taboa/.ssh/id_rsa.pub",
+		"/C/Users/taboa/.bashrc",
+		"/C/Users/taboa/.julia_history",
+		"/C/Program Files/Git/etc/profile",
+		"/C/Users/taboa/.kotlinc_history",
+		"/C/Users/taboa/Documents/Ciencias/Procesos/README.md",
+		"/C/Users/taboa/Documents/Ciencias/Procesos/src/filters/filter.py",
+		"/C/Users/taboa/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/taboa/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/taboa/Documents/Ciencias/Procesos/Pipfile.lock",
+		"/C/Users/taboa/Documents/Ciencias/Procesos/Pipfile",
+		"/C/Users/taboa/Documents/Ciencias/Procesos/__init__.py",
+		"/C/Users/taboa/Documents/Ciencias/Procesos/.gitignore",
+		"/C/Users/taboa/Documents/Ciencias/Procesos/.editorconfig",
+		"/C/Users/taboa/Documents/Ciencias/Procesos/src/__init__.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"% 255",
+			"255",
+			"total_pixeles"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.26.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/transforms/convolution.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|34568d1e294a35fa45fec5f8ea072f50d7ce25694a4a9c597a576406be3f9f32|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"SL.48.region_keys":
+							[
+								"SL.flake8.Gutter.|region.yellowish markup.warning.sublime_linter|dot",
+								"SL.flake8.Highlights.|34568d1e294a35fa45fec5f8ea072f50d7ce25694a4a9c597a576406be3f9f32|region.yellowish markup.warning.sublime_linter|32",
+								"sublime_linter.protected_regions"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "include/transforms/linear.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								291,
+								291
+							]
+						],
+						"settings":
+						{
+							"SL.16.region_keys":
+							[
+							],
+							"SL.51.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "include/filters/filter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"SL.25.region_keys":
+							[
+							],
+							"SL.55.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "include/transforms/cuadratic.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"SL.26.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "include/filters/mosaic.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1382,
+						"regions":
+						{
+							"mark":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/dot.png",
+								"regions":
+								[
+									[
+										749,
+										749
+									]
+								],
+								"scope": "mark"
+							}
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"SL.53.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 272.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "include/filters/greyscale.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"SL.22.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "include/filters/rgb_component.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"SL.24.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "include/filters/filter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								298,
+								298
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"SL.25.region_keys":
+							[
+							],
+							"SL.55.region_keys":
+							[
+							],
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 173.0
+	},
+	"output.markdown":
+	{
+		"height": 132.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "",
+	"project": "pdi.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cu",
+				"include\\transforms\\cuadratic.py"
+			],
+			[
+				"fil",
+				"include\\filters\\filter.py"
+			],
+			[
+				"rg",
+				"include\\filters\\rgb_component.py"
+			],
+			[
+				"ge",
+				"include\\filters\\greyscale.py"
+			],
+			[
+				"c",
+				"include\\transforms\\cuadratic.py"
+			],
+			[
+				"main",
+				"main.py"
+			],
+			[
+				"lin",
+				"include\\transforms\\linear.py"
+			],
+			[
+				"r",
+				"requirements.txt"
+			],
+			[
+				"Gr",
+				"include\\filters\\greyscale.py"
+			],
+			[
+				"filte",
+				"include\\filters\\filter.py"
+			],
+			[
+				"modal-in",
+				"app\\views\\modal-intermediarios.html"
+			],
+			[
+				"f",
+				"filters\\filter_.py"
+			],
+			[
+				"modal-i",
+				"app\\views\\modal-intermediarios.html"
+			],
+			[
+				"modal",
+				"app\\views\\modal-personas.html"
+			],
+			[
+				"menu",
+				"app\\views\\menu.html"
+			],
+			[
+				"alta.",
+				"app\\scripts\\controllers\\alta.js"
+			],
+			[
+				"modal-al",
+				"app\\views\\modal-alta.html"
+			],
+			[
+				"pesonas",
+				"app\\views\\modal-personas.html"
+			],
+			[
+				"uti",
+				"app\\scripts\\services\\utilfunctions.js"
+			],
+			[
+				"",
+				"app\\scripts\\controllers\\menu.js"
+			],
+			[
+				"index",
+				"app\\index.html"
+			],
+			[
+				"orden",
+				"app\\scripts\\controllers\\ordengenerada.js"
+			],
+			[
+				"modal-ore",
+				"app\\views\\modal-orden-generada.html"
+			],
+			[
+				"alta",
+				"app\\scripts\\controllers\\alta.js"
+			],
+			[
+				"gene",
+				"app\\scripts\\controllers\\generador.js"
+			],
+			[
+				"genera",
+				"app\\views\\generador.html"
+			],
+			[
+				"app",
+				"app\\scripts\\app.js"
+			],
+			[
+				"intermedi",
+				"app\\scripts\\controllers\\intermediarios.js"
+			],
+			[
+				"p",
+				"Parcial03.tex"
+			],
+			[
+				"ci",
+				"citas.bib"
+			],
+			[
+				"b",
+				"citas.bib"
+			],
+			[
+				"cita",
+				"citas.bib"
+			],
+			[
+				"Pl\t",
+				"Plantilla Evaluación Parcial 03 TGII.tex"
+			],
+			[
+				"pa",
+				"parcial03.tex"
+			],
+			[
+				"some",
+				"some.bib"
+			],
+			[
+				"al",
+				"algun.tex"
+			],
+			[
+				"par",
+				"parcial03.tex"
+			],
+			[
+				"PL",
+				"Plantilla Evaluación Parcial 03 TGII.tex"
+			],
+			[
+				"pr",
+				"parcial03.tex"
+			],
+			[
+				"inde",
+				"app\\index.html"
+			],
+			[
+				"main.js",
+				"app\\scripts\\services\\main.js"
+			],
+			[
+				"tradc",
+				"app\\scripts\\services\\traducciones.js"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"utilfun",
+				"app\\scripts\\services\\utilfunctions.js"
+			],
+			[
+				"eje",
+				"ejercicio.py"
+			],
+			[
+				"usuario",
+				"src\\login\\usuario.frm.js"
+			],
+			[
+				"grr",
+				"src\\main\\java\\com\\unam\\fciencias\\demo\\GreetingController.java"
+			],
+			[
+				"model",
+				"models.py"
+			],
+			[
+				"lc",
+				"restapi\\locals.py"
+			],
+			[
+				"res",
+				"tmp\\restart.txt"
+			],
+			[
+				"client",
+				"restapi\\client.py"
+			],
+			[
+				"contac",
+				"restapi\\contact.py"
+			],
+			[
+				"pas",
+				"passenger_wsgi.py"
+			],
+			[
+				"pass",
+				"gpobackend\\passenger_wsgi.py"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"ke",
+				"practica02\\src\\Kessels.java"
+			],
+			[
+				"vi",
+				"vigenere.refactor.py"
+			],
+			[
+				"foo",
+				"foo.txt"
+			],
+			[
+				"e",
+				"ejercicio2\\ejercicio2.py"
+			],
+			[
+				"comp",
+				"filters\\component_rgb.py"
+			],
+			[
+				"mos",
+				"filters\\mosaic.py"
+			],
+			[
+				"br",
+				"filters\\bright.py"
+			],
+			[
+				"hi",
+				"filters\\highcontrast.py"
+			],
+			[
+				"inve",
+				"filters\\inverse.py"
+			],
+			[
+				"gre",
+				"filters\\greyscale.py"
+			],
+			[
+				"gr",
+				"filters\\greyscale.py"
+			],
+			[
+				"filt",
+				"filters\\filter_.py"
+			],
+			[
+				"filter.py",
+				"src\\filters\\__init__.py"
+			],
+			[
+				"frma",
+				"src\\gui\\mainFrame.py"
+			],
+			[
+				"sk",
+				"src\\gui\\skeletonGui.py"
+			],
+			[
+				"wh",
+				"wheather.kv"
+			],
+			[
+				"roa",
+				"src\\RoyalPdf.php"
+			],
+			[
+				"ro",
+				"src\\routes\\royal.php"
+			],
+			[
+				"po",
+				"pom.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
