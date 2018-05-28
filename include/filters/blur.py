@@ -16,7 +16,7 @@ class Blur(Filter, Convolution):
             return Imagen()
 
     def apply(self, image):
-        im = self.convolve(image, self.kernel)
+        im = self.convolve(self.aux_convolve, image, self.kernel)
         result = Imagen()
         result.setSuccessful(im)
         return result
@@ -34,6 +34,18 @@ class BoxBlur(Blur):
                              [1, 1, 1]])
 
 
+class MotionBlur(Blur):
+    kernel = (1/9)*np.array([[1, 0, 0, 0, 0, 0, 0, 0, 0],
+                             [0, 1, 0, 0, 0, 0, 0, 0, 0],
+                             [0, 0, 1, 0, 0, 0, 0, 0, 0],
+                             [0, 0, 0, 1, 0, 0, 0, 0, 0],
+                             [0, 0, 0, 0, 1, 0, 0, 0, 0],
+                             [0, 0, 0, 0, 0, 1, 0, 0, 0],
+                             [0, 0, 0, 0, 0, 0, 1, 0, 0],
+                             [0, 0, 0, 0, 0, 0, 0, 1, 0],
+                             [0, 0, 0, 0, 0, 0, 0, 0, 1]])
+
+
 class GaussianBlurr3x3(Blur):
     kernel = (1/16)*np.array([[1, 2, 1],
                               [2, 4, 2],
@@ -46,3 +58,9 @@ class GaussianBlurr5x5(Blur):
                                [6, 24, 36, 24, 6],
                                [4, 16, 24, 16, 4],
                                [1, 4, 6, 4, 1]])
+
+
+class Sharpen(Blur):
+    kernel = np.array([[0, -1, 0],
+                       [-1, 5, -1],
+                       [0, -1, 0]])

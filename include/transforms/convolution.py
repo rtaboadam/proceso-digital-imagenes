@@ -1,12 +1,12 @@
 class Convolution:
-    def convolve(self, image, kernel):
+    def convolve(self, fun, image, kernel):
         temp = image.copy().load()
         load = image.load()
         W, H = image.size
         for i in range(W):
             for j in range(H):
                 m = self.get_matrix_assoc(temp, (i, j), kernel.shape)
-                load[i, j] = self.aux_convolve(m, kernel)
+                load[i, j] = fun(m, kernel)
         return image
 
     def aux_convolve(self, matrix, kernel):
@@ -19,6 +19,9 @@ class Convolution:
                 r += pr*value_kernel
                 g += pg*value_kernel
                 b += pb*value_kernel
+        r = min(r, 255)
+        g = min(g, 255)
+        b = min(b, 255)
         return int(r), int(g), int(b)
 
     def get_matrix_assoc(self, load, pos, shape):
@@ -31,20 +34,9 @@ class Convolution:
             except Exception:
                 return 0, 0, 0
 
-        return [
-            [f(load, i, j) for j in range(y - H//2, y + H//2 + 1)]
-            for i in range(x - W//2, x + W//2 + 1)]
+        return [[f(load, i, j) for j in range(y - H//2, y + H//2 + 1)] for i
+                in
+                range(x - W//2, x + W//2 + 1)]
 
     def rgb2hex(self, r, g, b):
         return "0x{:02x}{:02x}{:02x}".format(r, g, b)
-
-
-# 1 2 3 4 5 6 7 8 9
-# 1 2 3 4 5 6 7 8 9
-# 1 2 3 4 5 6 7 8 9
-# 1 2 3 4 5 6 7 8 9
-# 1 2 3 4 x 6 7 8 9
-# 1 2 3 4 5 6 7 8 9
-# 1 2 3 4 5 6 7 8 9
-# 1 2 3 4 5 6 7 8 9
-# 1 2 3 4 5 6 7 8 9

@@ -4,8 +4,6 @@ from include.transforms.linear import LinearTransform
 
 
 class RGBComponent(Filter, LinearTransform):
-    def __init__(self): pass
-
     def __call__(self, message):
         try:
             self.check(message.name)
