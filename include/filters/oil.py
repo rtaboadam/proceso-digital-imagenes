@@ -18,9 +18,8 @@ class Oil(Filter, Convolution):
             print(self.__str__())
             return self.apply(message.image)
         except Exception as e:
-            raise e
-            # traceback.print_exception(*exc_info)
-            # return Imagen()
+            print(e)
+            return Imagen()
 
     def apply(self, image):
         im = self.convolve(self.aux_oil, image, self.kernel)

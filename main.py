@@ -11,6 +11,7 @@ from include.filters.blur import GaussianBlurr3x3
 from include.filters.blur import GaussianBlurr5x5
 from include.filters.blur import Sharpen
 from include.filters.oil import Oil
+from include.filters.dominoes import Dominoes
 
 
 def main():
@@ -25,13 +26,15 @@ def main():
     ChainLink(solutions, GaussianBlurr5x5())
     ChainLink(solutions, Sharpen())
     ChainLink(solutions, Oil())
+    ChainLink(solutions, Dominoes())
 
     message = Message()
-    message.image = Image.open("var/emilia2018.jpg").copy()
-    message.name = "Oil"
+    message.image = Image.open("var/emilia.jpg").copy()
+    message.name = "Dominoes"
     message.type = "b"
     message.component = "r"
     message.square = 20, 10
+    message.font = "BlackVegas"
     solutions[0](message).succeeded.show()
 
 

@@ -13,16 +13,16 @@ class GreyScale(Filter, LinearTransform):
             result = self.apply(image, type_)
             return result
         except Exception as e:
-            str(e)
+            print(e)
             return Imagen()
 
     def apply(self, image, type):
-        img = self.linear_transform({
+        img = self.linear_transform(image, {
             'avg': self.grey_avg,
             'r': self.grey_rgb(0),
             'g': self.grey_rgb(1),
             'b': self.grey_rgb(2)
-            }[type], image)
+            }[type])
         result = Imagen()
         result.setSuccessful(img)
         return result

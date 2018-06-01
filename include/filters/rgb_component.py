@@ -17,11 +17,11 @@ class RGBComponent(Filter, LinearTransform):
             return Imagen()
 
     def apply(self, image, component):
-        im = self.linear_transform({
+        im = self.linear_transform(image, {
                     'r': lambda pixel: (pixel[0], 0, 0),
                     'g': lambda pixel: (0, pixel[1], 0),
                     'b': lambda pixel: (0, 0, pixel[2])
-                    }[component], image)
+                    }[component])
         result = Imagen()
         result.setSuccessful(im)
         return result

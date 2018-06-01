@@ -11,7 +11,7 @@ class Mosaic(Filter, CuadraticTransform):
             result = self.apply(message.image, message.square)
             return result
         except Exception as e:
-            str(e)
+            print(e)
             return Imagen()
 
     def apply(self, image, square):

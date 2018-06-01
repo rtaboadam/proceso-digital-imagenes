@@ -12,7 +12,7 @@ class Blur(Filter, Convolution):
             print(self.__str__())
             return self.apply(message.image)
         except Exception as e:
-            str(e)
+            print(e)
             return Imagen()
 
     def apply(self, image):
