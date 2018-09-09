@@ -18,15 +18,15 @@ class Dominoes(Filter, LinearTransform):
             outputPath = os.path.join(ROOT, 'output', 'dominoes.html')
             shutil.copyfile(templatePath, outputPath)
             font = message.font
-            self.apply(message.image, outputPath, font)
+            return self.apply(message.image, outputPath, font)
         except Exception as e:
-            raise e
+            print(e)
+            return Imagen()
 
     def apply(self, image, canvas, font):
         with open(canvas) as inf:
             txt = inf.read()
             soup = bs4.BeautifulSoup(txt, "html.parser")
-        print(soup)
         load = image.convert("L").load()
         W, H = image.size
         for x in range(W):
@@ -41,7 +41,7 @@ class Dominoes(Filter, LinearTransform):
 
         result = Imagen()
         result.show = lambda: print("exito")
-        result.setSuccessful(canvas)
+        result.setSuccessful(True)
         return result
 
     def getDominoForPixel(self, pixel):
